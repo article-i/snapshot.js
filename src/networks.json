@@ -940,6 +940,23 @@
     "start": 14473847,
     "logo": "ipfs://QmYqkn8pJUaV9KcEPYEvRPwgbfeozLEvcQ9aEwKNRUL3cR"
   },
+  "1030": {
+    "key": "1030",
+    "name": "Conflux eSpace",
+    "shortName": "Conflux eSpace",
+    "chainId": 1030,
+    "network": "Mainnet",
+    "multicall": "0x02471805797D706bb806fede7073DCEfCF401Ae2",
+    "rpc": [
+      "https://evm.confluxrpc.com"
+    ],
+    "ws": [
+      "wss://evm.confluxrpc.com/ws"
+    ],
+    "explorer": "https://evm.confluxscan.net",
+    "start": 57306366,
+    "logo": "ipfs://QmV7i9fNAAd3yT3vpm7Afp6YpSp4DFNZL6D7TdpsiR9koS"
+  },
   "1088": {
     "key": "1088",
     "name": "Metis",
